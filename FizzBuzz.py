@@ -33,7 +33,7 @@ def toArray():
                 arr.append(i)
     print(arr)
 
-userInput = str(input("Please Enter Your choice P To print the the buzzle A For the make buzzle to array: "))
+userInput = str(input("Please Enter Your choice P To print the the Puzzle A For the make buzzle to array: "))
 if userInput == 'P':
     print(printArray())
 elif userInput == 'A':
