@@ -8,7 +8,7 @@ def printArray():
                 print("FizzBuzz")
 
             elif  i%3 ==0:
-                print("fizz")
+                print("Fizz")
 
             elif i%5 ==0:
                 print("Buzz")
